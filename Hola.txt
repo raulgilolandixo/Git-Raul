@@ -1,5 +1,1 @@
-<<<<<<< .merge_file_a13908
-Hola Local
-=======
-Hola GitHub
->>>>>>> .merge_file_a16060
+Hola Local 3
